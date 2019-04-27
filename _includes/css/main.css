@@ -455,3 +455,12 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+.left-align {
+  float: left;
+}
+
+.right-align {
+  float: right;
+}
